@@ -29,12 +29,16 @@ Proven methodologies and best practices for LLM implementation
 
 | Strategy Area | Key Topics | Business Impact |
 |---------------|------------|-----------------|
-| [**📊 Embedding Techniques**](./strategies/embedding-techniques/) | Dense, Sparse, Hybrid Embeddings | 40-60% search accuracy improvement |
+| [**📊 Advance Data Preparation**](./strategies/embedding-techniques/) | Dense, Sparse, Hybrid Embeddings | 40-60% search accuracy improvement |
 | [**🔒 LLM Security**](./strategies/llm_security/) | Prompt Injection, Privacy, Compliance | Risk mitigation & regulatory compliance |
-| [**⚡ Fine-tuning Optimization**](./strategies/fine-tuning-strategies/) | LoRA, QLoRA, Memorization Prevention | 70% training cost reduction |
-| [**🎯 RAG Optimization**](./strategies/rag-optimization/) | Retrieval Enhancement, Context Engineering | 3x response relevance improvement |
-| [**📏 Evaluation Frameworks**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
-
+| [**⚡ DoubleINference speed by AWQ**](./strategies/fine-tuning-strategies/) | LoRA, QLoRA, Memorization Prevention | 70% training cost reduction |
+| [**🎯 Memory Management**](./strategies/rag-optimization/) | Retrieval Enhancement, Context Engineering | 3x response relevance improvement |
+| [**📏 Advance Embedding Techniques & models**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
+| [**📏 Finetune for memorization**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
+| [**📏 Reinforement Learning For LLM**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
+| [**📏 Context Caching**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
+| [**📏 Finetune With Custom Compute**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
+| [**📏 Mastering Retrival For LLM**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
 #### 🚀 **Advanced Implementation Patterns**
 
 | Pattern | Description | Use Cases |
