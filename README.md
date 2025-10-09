@@ -15,12 +15,12 @@ Real-world implementations demonstrating practical LLM applications
 
 | Project | Technology Stack | Use Case | Live Demo |
 |---------|-----------------|----------|-----------|
-| [🤖 ML Training System](./projects/ml-training-system/) | PyTorch, LoRA, Distributed Training | Fine-tuning at Scale | [![Demo](https://img.shields.io/badge/Demo-Live-green)](demo-link) |
-| [💬 RAG Chatbot](./projects/rag-chatbot/) | LangChain, Vector DB, FastAPI | Document Q&A System | [![Demo](https://img.shields.io/badge/Demo-Live-green)](demo-link) |
 | [🔍 LLM Observability Platform](./projects/LLM_obervebility/) | OpenTelemetry, Jaeger, Prometheus, Grafana | Production Monitoring & Tracing | [![GitHub](https://img.shields.io/badge/GitHub-Live-blue)](https://github.com/AmitNaikRepository/LLM-Observability-Platform) |
-| [📄 Document Intelligence](./projects/document-ai/) | OCR, NLP, Classification | Automated Processing | [![Demo](https://img.shields.io/badge/Demo-Live-green)](demo-link) |
-| [🎨 Multimodal AI](./projects/multimodal-ai/) | Vision Transformers, CLIP | Image-Text Understanding | [![Demo](https://img.shields.io/badge/Demo-Live-green)](demo-link) |
-| [📈 LLM Evaluation Suite](./projects/llm-evaluation/) | Custom Metrics, Benchmarking | Model Performance Analysis | [![Demo](https://img.shields.io/badge/Demo-Live-green)](demo-link) |
+| [☁️ LLM Deploy on AWS](https://github.com/AmitNaikRepository/aws_llm_deployment-/tree/main) | AWS, SageMaker, Lambda, API Gateway | Cloud LLM Deployment | [![GitHub](https://img.shields.io/badge/GitHub-Live-blue)](https://github.com/AmitNaikRepository/aws_llm_deployment-/tree/main) |
+| [🏢 LLM Deploy on Enterprise](https://github.com/AmitNaikRepository/LLM-deploy-on-Enterprise-) | Docker, Groq API, Custom Branding | Enterprise Chat System | [![GitHub](https://img.shields.io/badge/GitHub-Live-blue)](https://github.com/AmitNaikRepository/LLM-deploy-on-Enterprise-) |
+| [🔋 AI Driven Degradation - Time Series](https://github.com/AmitNaikRepository/AI-Battery-SOH-Degradation-TS-Anomaly-NASA-Dataset) | Time Series, Anomaly Detection, NASA Dataset | Battery SOH Prediction | [![GitHub](https://img.shields.io/badge/GitHub-Live-blue)](https://github.com/AmitNaikRepository/AI-Battery-SOH-Degradation-TS-Anomaly-NASA-Dataset) |
+| [⚡ Multi GPU Training](https://github.com/AmitNaikRepository/Multi_GPU_deployement) | PyTorch, Distributed Training, DeepSpeed | Large Model Training | [![GitHub](https://img.shields.io/badge/GitHub-Live-blue)](https://github.com/AmitNaikRepository/Multi_GPU_deployement) |
+| [🚀 Multi GPU Inference](https://github.com/AmitNaikRepository/Ai-infrastructure-production-deployment-) | Production Infrastructure, Load Balancing | Scalable AI Deployment | [![GitHub](https://img.shields.io/badge/GitHub-Live-blue)](https://github.com/AmitNaikRepository/Ai-infrastructure-production-deployment-) |
 
 ### 🧠 **Strategic Knowledge** | [View All Strategies →](./strategies/)
 Proven methodologies and best practices for LLM implementation
