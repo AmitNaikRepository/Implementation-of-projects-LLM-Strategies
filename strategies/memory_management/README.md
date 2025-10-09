@@ -700,8 +700,8 @@ Savings: $40 → $6 (85% reduction!)
 
 **Ready to train models you thought were impossible?**
 
-📧 Email: your-email@company.com  
-💼 Schedule: [Calendar Link]
+📧 Email: amitnaik.work@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/amit-naik-6264d/
 
 ---
 

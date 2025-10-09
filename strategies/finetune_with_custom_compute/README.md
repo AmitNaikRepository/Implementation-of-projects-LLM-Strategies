@@ -748,8 +748,8 @@ Your cost: Only actual compute (at our discounted rates)
 
 **Ready to cut your training costs by 70-90%?**
 
-📧 Email: your-email@company.com  
-💼 Schedule: [Calendar Link]
+📧 Email: amitnaik.work@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/amit-naik-6264d/
 
 **Free Consultation:**
 - Analyze your training needs

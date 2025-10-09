@@ -29,16 +29,16 @@ Proven methodologies and best practices for LLM implementation
 
 | Strategy Area | Key Topics | Business Impact |
 |---------------|------------|-----------------|
-| [**📊 Advance Data Preparation**](./strategies/embedding-techniques/) | Dense, Sparse, Hybrid Embeddings | 40-60% search accuracy improvement |
+| [**🎯 Advanced Data Preparation**](./strategies/advance_data_prep/) | Data Cleaning, Augmentation, Balancing | 3-5x better model performance |
 | [**🔒 LLM Security**](./strategies/llm_security/) | Prompt Injection, Privacy, Compliance | Risk mitigation & regulatory compliance |
-| [**⚡ DoubleINference speed by AWQ**](./strategies/fine-tuning-strategies/) | LoRA, QLoRA, Memorization Prevention | 70% training cost reduction |
-| [**🎯 Memory Management**](./strategies/rag-optimization/) | Retrieval Enhancement, Context Engineering | 3x response relevance improvement |
-| [**📏 Advance Embedding Techniques & models**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
-| [**📏 Finetune for memorization**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
-| [**📏 Reinforement Learning For LLM**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
-| [**📏 Context Caching**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
-| [**📏 Finetune With Custom Compute**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
-| [**📏 Mastering Retrival For LLM**](./strategies/evaluation-frameworks/) | Automated Testing, Human Evaluation | Reliable quality assurance |
+| [**⚡ Double Inference Speed with AWQ**](./strategies/Inference_by_awq/) | 4-bit Quantization, Faster Inference | 3x faster, 75% memory reduction |
+| [**💾 Memory Management**](./strategies/memory_management/) | Training Large Models on Small GPUs | Train 70B on 24GB GPU |
+| [**📊 Advanced Embedding & Models**](./strategies/advance_embedding_&_models/) | Fine-tuned Embeddings, Model Selection | Enhanced retrieval accuracy |
+| [**🧠 Finetune for Memorization**](./strategies/finetune_for_memorization/) | Knowledge Injection, Zero Hallucinations | 95%+ accuracy on domain data |
+| [**🎮 Reinforcement Learning for LLM**](./strategies/Reinforecement_learning_LLM/) | RLHF, DPO, Reward Models | Aligned model behavior |
+| [**⚡ Context Caching**](./strategies/context_caching/) | Reduce API Costs, Speed Up Responses | 90% cost reduction |
+| [**🖥️ Finetune with Custom Compute**](./strategies/finetune_with_custom_compute/) | Spot Instances, Consumer GPUs | 70% training cost savings |
+| [**🔍 Mastering Retrieval for LLM**](./strategies/mastering_retrieval_BM25/) | BM25, Hybrid Search, Re-ranking | 96% retrieval accuracy |
 #### 🚀 **Advanced Implementation Patterns**
 
 | Pattern | Description | Use Cases |
@@ -108,9 +108,8 @@ Looking for custom LLM solutions? I specialize in:
 - **🎓 Team Training**: Knowledge transfer and best practices
 
 ### 📞 **Let's Discuss Your Project**
-- **Email**: your.email@domain.com
-- **LinkedIn**: [Your LinkedIn Profile](linkedin-url)
-- **Calendar**: [Schedule a Call](calendar-link)
+- **Email**: amitnaik.work@gmail.com
+- **LinkedIn**: [Amit Naik](https://www.linkedin.com/in/amit-naik-6264d/)
 
 ---
 

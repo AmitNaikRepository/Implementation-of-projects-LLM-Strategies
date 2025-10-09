@@ -900,8 +900,8 @@ Deliverable: Always-improving datasets
 
 **Ready to transform your model performance?**
 
-📧 Email: your-email@company.com  
-💼 Schedule: [Calendar Link]
+📧 Email: amitnaik.work@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/amit-naik-6264d/
 
 **Free Data Audit:**
 - Upload your dataset

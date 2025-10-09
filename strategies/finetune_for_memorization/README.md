@@ -844,10 +844,8 @@ Training Module 4: Continuous Improvement (2 hours)
 
 **Let's discuss how memorization finetuning can transform your AI systems.**
 
-📧 **Email:** your-email@company.com  
-📞 **Phone:** +1 (555) 123-4567  
-🌐 **Website:** www.your-company.com  
-💼 **Schedule Consultation:** [Calendar Link]
+📧 **Email:** amitnaik.work@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/amit-naik-6264d/
 
 ### Special Offer
 

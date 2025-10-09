@@ -894,8 +894,8 @@ Accuracy: 95%+, Scale: Millions of queries
 
 **Ready to build RAG that actually works?**
 
-📧 Email: your-email@company.com  
-💼 Schedule: [Calendar Link]
+📧 Email: amitnaik.work@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/amit-naik-6264d/
 
 **Free Retrieval Audit:**
 - Test your current system

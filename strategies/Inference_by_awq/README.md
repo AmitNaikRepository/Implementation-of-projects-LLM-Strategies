@@ -839,8 +839,7 @@ watch -n 1 nvidia-smi
 **Strategy #X: AWQ Inference**  
 *Efficient, Scalable, Production-Ready LLM Deployment*
 
-📧 Contact: your-email@example.com  
-🌐 Website: your-website.com  
-💼 Portfolio: your-portfolio.com
+📧 Contact: amitnaik.work@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/amit-naik-6264d/
 
 </div>

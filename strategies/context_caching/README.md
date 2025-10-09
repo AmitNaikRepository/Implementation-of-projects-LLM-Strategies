@@ -711,8 +711,8 @@ Deliverable: Production system + 30-day support
 
 **Ready to cut your LLM API costs by 90%?**
 
-📧 Email: your-email@company.com  
-💼 Schedule: [Calendar Link]
+📧 Email: amitnaik.work@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/amit-naik-6264d/
 
 **Free Assessment:**
 - Analyze your current usage
