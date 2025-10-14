@@ -18,9 +18,9 @@ LLM security strategies directly impact:
 
 | Strategy | Description | Business Impact | Focus Area |
 |----------|-------------|-----------------|------------|
-| [Prompt Injection Prevention](./prompt-injection-prevention.md) | Advanced techniques to prevent malicious prompt manipulation and system compromise | Critical - Prevents unauthorized access and data breaches | Input Validation |
-| [Data Privacy Protection](./data-privacy-protection.md) | Comprehensive frameworks for protecting sensitive data in LLM interactions | High - Ensures compliance and customer trust | Data Security |
-| [Model Security Best Practices](./model-security-best-practices.md) | Essential security measures for protecting AI models from unauthorized access and tampering | High - Protects intellectual property and system integrity | Model Protection |
+| [Prompt Injection Prevention](./prompt_injection_security.md) | Advanced techniques to prevent malicious prompt manipulation and system compromise | Critical - Prevents unauthorized access and data breaches | Input Validation |
+| [Data Privacy Protection](./user_level_security_policy.md) | Comprehensive frameworks for protecting sensitive data in LLM interactions | High - Ensures compliance and customer trust | Data Security |
+| [Model Security Best Practices](./model_security.md) | Essential security measures for protecting AI models from unauthorized access and tampering | High - Protects intellectual property and system integrity | Model Protection |
 
 ## Implementation Approach
 
