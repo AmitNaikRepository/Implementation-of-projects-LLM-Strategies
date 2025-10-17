@@ -1,13 +1,4 @@
-┌──────────────────────────────────────────────────────────────┐
-│             Choose Hybrid (Both) When:                       │
-├──────────────────────────────────────────────────────────────┤
-│ ✅ Core knowledge should be memorized (policies, protocols)  │
-│ ✅ + Supplementary info retrieved (recent updates, docs)     │
-│ ✅ Best accuracy required                                    │
-│ ✅ Budget allows for both approaches                         │
-│ ✅ Need flexibility for frequent updates + stable core       │
-│ ✅ Enterprise-scale deployment                               │
-└──────────────────────────────────────────────────────────────┘
+
 ```
 
 ### Hybrid Architecture Example
